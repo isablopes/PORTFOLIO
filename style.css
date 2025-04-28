@@ -5,5 +5,52 @@
 
 body {
     height: 100vh;
-    background-color: rgb(229, 66, 213);
+    background-color: rgb(59, 21, 56);
+    background-attachment: fixed;
+    color: rgb(227, 245, 227);
+    margin: 0;
 }
+
+.cabecalho menu {
+    padding: 2% 0% 0% 15%;
+    
+}
+
+.cabecalho-menu {
+     display: flex;
+     gap: 320px;
+}
+
+.cabecalho-menu-links {
+    font-family: cursive;
+    font-size:24px;
+    font-weight: 600;
+    color:antiquewhite;
+    text-decoration:none;
+}
+
+.titulo-destaque {
+    color:rgb(245, 247, 247);
+}
+
+.conteudo {
+    height: auto;
+    flex-direction: column;
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.apresentacao-conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    gap: 40px;
+    order: 2;
+}   
