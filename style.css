@@ -26,7 +26,7 @@ body {
     font-size:24px;
     font-weight: 600;
     color:antiquewhite;
-    text-decoration:none;
+    text-decoration: none;
 }
 
 .titulo-destaque {
@@ -51,6 +51,42 @@ body {
     align-items: center;
     text-align: center;
     height: auto;
-    gap: 40px;
+    gap: 30px;
     order: 2;
 }   
+
+.apresentacao-conteudo-titulo {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    }
+
+    .apresentacao-conteudo-paragrafo {
+        font-size: 24px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: justify;
+    }
+
+    .apresentacao-links-conteudo {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 400;
+        font-size: 40px;
+    }
+
+    .botao1 {
+        background-color: blueviolet;
+        color: bisque;
+        width: 500px;
+        height: 80px;
+        text-align: center;
+        border: 2px saddlebrown;
+        border-radius: 50px;
+        font-size: 36px;
+        padding:15px 0;
+        text-decoration: none;
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        position: relative;
+        overflow: hidden;
+    }
