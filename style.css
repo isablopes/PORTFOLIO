@@ -108,14 +108,14 @@ body {
 
 .botao1 {
     background-color: #000;
-    color: #ff5500;
+    color: #a51414;
     width: 500px;
     height: 80px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #ff5500;
+    border: 2px solid #a61414;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -148,14 +148,14 @@ body {
 }
 .botao2 {
     background-color: #000;
-    color: #ff5500;
+    color: #ac1414;
     width: 500px;
     height: 80px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #ff5500;
+    border: 2px solid #bc1b1b;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -188,14 +188,14 @@ body {
 }
 .botao3 {
     background-color: #000;
-    color: #ff5500;
+    color: #a9221b;
     width: 500px;
     height: 80px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #ff5500;
+    border: 2px solid #b7201b;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -235,7 +235,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #a11717;
+    border: 2px solid #ae1717;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -275,7 +275,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #a9312c;
+    border: 2px solid #941c18;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
